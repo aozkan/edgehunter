@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/edgehunter/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/edgehunter/static/js/main.aa359e87.chunk.js",
+    "main.js.map": "/edgehunter/static/js/main.aa359e87.chunk.js.map",
+    "runtime-main.js": "/edgehunter/static/js/runtime-main.f353f432.js",
+    "runtime-main.js.map": "/edgehunter/static/js/runtime-main.f353f432.js.map",
+    "static/js/2.731daf65.chunk.js": "/edgehunter/static/js/2.731daf65.chunk.js",
+    "static/js/2.731daf65.chunk.js.map": "/edgehunter/static/js/2.731daf65.chunk.js.map",
+    "index.html": "/edgehunter/index.html",
+    "precache-manifest.6ba70c972e44a6112951512551e383b6.js": "/edgehunter/precache-manifest.6ba70c972e44a6112951512551e383b6.js",
+    "service-worker.js": "/edgehunter/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/edgehunter/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.731daf65.chunk.js.LICENSE.txt": "/edgehunter/static/js/2.731daf65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f353f432.js",
+    "static/js/2.731daf65.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.aa359e87.chunk.js"
+  ]
+}
